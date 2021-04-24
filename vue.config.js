@@ -7,5 +7,8 @@
         args[0].title = 'City'
         return args
       })
-    }
+    },
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/city-project/'
+    : '/'
   }
