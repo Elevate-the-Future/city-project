@@ -18,10 +18,11 @@
     </nav>    
     
     <!--HERO-->
-    <img src = "../assets/images/cupertino.jpg">
+    <img>
 
-    <div class = "bg-no-repeat h-screen bg-center bg-cover center" style="background-image: url('../assets/images/cupertino.jpg');">
-        <h1>{{ msg }}</h1>
+    <div class = "bg-no-repeat h-screen bg-center bg-cover center p-24" style="background-image: url('/images/cupertino.jpg');">
+        <h1 class="text-7xl text-white font-extrabold">{{ msg }}</h1>
+        <p class="text-3xl text-white">eric cringe kid ngl</p>
 
     </div>
 
