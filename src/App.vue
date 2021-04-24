@@ -3,7 +3,7 @@
   <div id="app">
     <!--<img alt="Vue logo" src="./assets/logo.png">-->
     
-   
+
 
     <!--vue for image here?-->
     <HelloWorld msg="test"/>
@@ -20,6 +20,8 @@ export default {
     HelloWorld
   }
 }
+
+
 </script>
 
 <style>
